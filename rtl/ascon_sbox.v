@@ -6,7 +6,7 @@
 // Create Date: 02/01/2026 10:50:45 AM
 // Design Name: 
 // Module Name: ascon_sbox
-// Project Name: 
+// Project Name: Ascon 
 // Target Devices: 
 // Tool Versions: 
 // Description: 
