@@ -1,4 +1,4 @@
-//helloworld
+//author:quan
 #include <iostream>
 #include <cstdint>
 #include <cstring>
